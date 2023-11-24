@@ -1,0 +1,1 @@
+console.log('Hello from learning data structure and algorithms')
